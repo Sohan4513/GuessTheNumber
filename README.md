@@ -3,6 +3,6 @@ Experience the thrill of guessing the number in this game, where you choose the 
 
 ## Initiation:
 1) To initiate the Guess The Number game, Run:
-   gcc -o guessthenumber guessthenumber.c
-   ./guessthenumber
-2) Follow the instructions and enjoy!
+   - gcc -o guessthenumber guessthenumber.c
+   - ./guessthenumber
+3) Follow the instructions and enjoy!
