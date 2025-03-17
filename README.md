@@ -19,5 +19,8 @@ A fun, interactive **number guessing game** where the player must guess a random
 1. Compile the program:
    ```sh
    gcc -o guessthenumber guessthenumber.c
+2. Run the game:
+   ```sh
+   ./guessthenumber
 
 ---
