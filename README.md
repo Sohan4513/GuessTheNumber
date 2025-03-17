@@ -1,8 +1,23 @@
-## Basics:
-Experience the thrill of guessing the number in this game, where you choose the maximum number and receive personalized hints to uncover the secret within your attempts!
+# **Guess the Number Game**
 
-## Initiation:
-1) To initiate the Guess The Number game, run:
-   - gcc -o guessthenumber guessthenumber.c
-   - ./guessthenumber
-3) Follow the instructions and enjoy!
+## **Overview**
+A fun, interactive **number guessing game** where the player must guess a randomly generated number.
+
+## **Features**
+- The player sets the maximum number for the range.
+- The program provides hints after each guess.
+- The game tracks the number of attempts.
+
+## **How to Play**
+1. The player enters their name.
+2. The player sets the **maximum number** for the guessing range.
+3. The game generates a **random number** within this range.
+4. The player guesses until they find the correct number, receiving hints on whether their guess is **too high** or **too low**.
+5. Once the player guesses correctly, the game displays the **number of attempts** taken.
+
+## **How to Run**
+1. Compile the program:
+   ```sh
+   gcc -o guessthenumber guessthenumber.c
+
+---
